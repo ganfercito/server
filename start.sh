@@ -1,1 +1,1 @@
-java -Xms1G -Xmx6G -XX:+UseConcMarkSweepGC -jar spigot.jar
+java -Xms512m -Xmx512m -XX:+UseConcMarkSweepGC -jar spigot.jar

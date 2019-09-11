@@ -1,5 +1,9 @@
-Flask Python Experiment
+Da Minecraft Spigot Experiment
 =======================
 
-Packages on `requirements.txt` will automatically get installed with pip
-`start.sh` is the startup script.
+`start.sh` is the main startup file. 
+
+# What I did
+Copied files from my DIY Minecraft server then edited them for linux
+# Status
+Dying because of memory
